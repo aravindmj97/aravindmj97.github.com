@@ -18,7 +18,7 @@ if (document.getElementsByClassName('aboutme').length > 0) {
               - I'm From God's Own Country Kerala 🌴
               - Studied B.Tech CSE from Cochin University of Science and Technology 🏫
 
-            Hobbies
+            Interests
 
               - Watch Tech reviews 📱
               - Like to read about new Gadgets
@@ -26,10 +26,17 @@ if (document.getElementsByClassName('aboutme').length > 0) {
               - Play Games 🎮
               - Hangout with friends
               - Travelling 🧳
+              - Learning Digital Art
               - Mobile Photography 
               - Like Cooking 👩‍🍳
+
+            Practical Phase 1 Info
+
+              - I was part of the team iLM (Intelligent LifeCycle Management) which comes under CLM
+              - I worked in UI5 creating a component from scratch called as the Catalog UI
+              
             `;
-  var speed = 30;
+  var speed = 20;
 
   function typeItOut () {
     if (i < txt.length) {
