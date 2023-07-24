@@ -16,10 +16,13 @@ if (document.getElementsByClassName('aboutme').length > 0) {
             About Me
             
               - I'm From God's Own Country Kerala 🌴
+              - I'm working at SAP Labs India since 4 years
+              - Completed M.Tech in Software Engineering from BITS Pilani 🏫
               - Studied B.Tech CSE from Cochin University of Science and Technology 🏫
 
             Interests
 
+              - Photography and Videography
               - Watch Tech reviews 📱
               - Like to read about new Gadgets
               - Watch Movies 
@@ -27,16 +30,23 @@ if (document.getElementsByClassName('aboutme').length > 0) {
               - Hangout with friends
               - Travelling 🧳
               - Learning Digital Art
-              - Mobile Photography 
               - Like Cooking 👩‍🍳
 
-            Practical Phase 1 Info
+            Professional Journey
 
-              - I was part of the team iLM (Intelligent LifeCycle Management) which comes under CLM
-              - I worked in UI5 creating a component from scratch called as the Catalog UI
+              I started off as a Scholar@SAP back in 2019. Completed my MTech in Jan 2021.
+              During the Scholar period, I have working in multiple teams both technical and non technical.
+              I was able to experience various domains and work with different colleagues on interesting and challenging topics.
+
+              I got converted as an Associate Developmer in Jan 2021 and I'm continuing to work in the PLM Discrete BOM which is the team
+              I joined during my 2nd scholar practical phase.
+
+              Now, I'm working as a Developer in the PLM Discrete BOM.
+
+              We developer maintenance and untility applications for the Bills Of Material in the S/4HANA suite of applications.
               
             `;
-  var speed = 20;
+  var speed = 40;
 
   function typeItOut () {
     if (i < txt.length) {
